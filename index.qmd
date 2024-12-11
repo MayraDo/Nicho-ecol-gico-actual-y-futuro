@@ -573,6 +573,8 @@ leaflet() |>
   hideGroup("Modelo de distribución binario futuro")
 
 ```
+
+
 El mapa binario bajo un umbral de 0.5 nos permite clasificar la distribución de la especie Ateles geoffroyi bajo un rango de presencia y ausencia, que permite observar de manera más práctica y binaria la distribución de la especie. 
 
 
